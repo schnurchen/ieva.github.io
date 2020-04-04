@@ -1,0 +1,30 @@
+body{
+    
+    background-color:rgb(255, 236, 236);
+}
+.centras{
+    text-align:center;
+    background-color:#FFD2D2;
+    color:#F072A9;
+}
+li{
+    font-size:30px;
+}
+ul{
+    text-align:center;
+}
+img{
+    height:200px
+}
+#vardas{
+    text-align:right;
+}
+.border{
+    display:inline-block;
+    border:3px solid;
+    padding:30px;
+    color:#F072A9;
+    background:#FFD2D2;
+    
+    
+}

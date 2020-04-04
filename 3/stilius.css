@@ -1,0 +1,91 @@
+.pagr
+{
+    margin: auto; /* lygiuoja centre */
+    padding: 10px;
+    margin-top: 5px;
+    background-color: #7A9D96;
+    width: 600px;
+    height: 210px;
+}
+
+.article_foto
+{
+    display:block;
+    float: left;
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    border: solid 3px #DCAE1D;
+    overflow: hidden;
+}
+.article_antr
+{
+    display:block;
+    float: left;
+    background-color: #CAE4DB;
+    border: solid 3px #DCAE1D;
+    width: 380px;
+    height: 50px;
+    color: #00303F;
+    text-align: center;
+    font-size: 25px;
+}
+.article_tekstas
+{
+    display:block;
+    float: left;
+    background-color: #CAE4DB;
+    width: 380px;
+    height: 120px;
+    border: solid 3px #DCAE1D;
+}
+body{
+    background-color: #CAE4DB;
+}
+.topnav a:hover {
+    background-color: #CAE4DB;
+    color: black;
+  }
+.topnav {
+    background-color: #7A9D96;
+}
+.topnav a {
+    float: left;
+    color: #00303F;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: #7A9D96;
+  }
+.antraste{
+    background-color: #7A9D96;
+    text-align: center;
+    color:#00303F;
+    padding: 6px 16px;
+}
+.article_tekstas2
+{
+    display:block;
+    float: left;
+    background-color: #CAE4DB;
+    width: 590px;
+    height: 200px;
+    border: solid 3px #DCAE1D;
+}
+p{
+    font-family:"Bookman Old Style" ;
+    font-size: 15px;
+    color:#00303F;
+}
+.kalba{
+    margin-right: 2cm;
+    margin-left: 2cm;
+}
+.img2{
+    width:200px;
+
+}
+.img1{
+    height: 200px;
+}
